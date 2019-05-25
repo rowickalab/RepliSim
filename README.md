@@ -49,3 +49,6 @@ where each line (row) belongs to each chromosome (i) and values in each row, cij
 
 As you set the initial parameters for your system, you can easily run the code for your system.
 The output file is “outputParameters.txt” file, which provides the values used in each run along with the difference (least square diff) between DNA tracks distribution from each model and experimental data.
+
+
+Ref(1): Nami Yabuki, Hiromichi Terashima, and Kunio Kitada. Mapping of early firing origins on a replication profile of budding yeast. Genes to Cells, 7(8):781–789, 2002.
